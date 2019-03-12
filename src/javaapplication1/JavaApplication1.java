@@ -10,6 +10,8 @@ package javaapplication1;
  * @author M_Mus
  */
 public class JavaApplication1 {
+    
+    private int number;
 
     /**
      * @param args the command line arguments
@@ -17,5 +19,6 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+
     
 }
