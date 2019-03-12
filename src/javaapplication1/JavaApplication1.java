@@ -12,7 +12,6 @@ package javaapplication1;
 public class JavaApplication1 {
     
     private int number;
-    private String name;
 
     /**
      * @param args the command line arguments
